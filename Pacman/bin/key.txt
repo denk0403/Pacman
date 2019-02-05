@@ -1,0 +1,8 @@
+Key: 
+B - Barrier //only place player CANNOT move
+E - Empty
+P - Point Orb
+O - Power Orb
+G - Gate
+L - Player starting moving left
+R - Player starting moving right
